@@ -48,7 +48,12 @@ Run `python main.py --help` to see all supported options.
 ## :file_folder: Folder Structure
 
 ```text
-text-encoding-audit/\n├── main.py\n├── requirements.txt\n├── tests/test_core.py\n├── examples/README.md\n└── assets/illustration.svg
+text-encoding-audit/
+├── main.py
+├── requirements.txt
+├── tests/test_core.py
+├── examples/README.md
+└── assets/illustration.svg
 ```
 
 ## :world_map: Roadmap
