@@ -1,0 +1,1 @@
+Run `python main.py . --extensions .py,.md` from a project root. The audit is read-only and does not rewrite files.\n
